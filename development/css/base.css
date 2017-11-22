@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "FontName";
+  src: url('../fonts/FontName.otf') format("opentype");
+}
+
+/* Insert styles here */
+
+header {
+  /* Insert styles here */
+}
+
+main {
+  /* Insert styles here */
+}
+
+footer {
+  /* Insert styles here */
+}
+
+/* Responsive Shite ;-) Styles */
+
+/* Custom, iPhone Retina */
+
+@media only screen and (min-width: 320px) {
+  /* Insert styles here */
+}
+
+/* Small Devices, Tablets */
+
+@media only screen and (min-width: 768px) {
+  /* Insert styles here */
+}
+
+/* Large Devices, Wide Screens */
+
+@media only screen and (min-width: 1200px) {
+  /* Insert styles here */
+}

@@ -1,1 +1,1 @@
-Make sure to edit this file.
+Add your wireframes to this folder. You can delete this file.
